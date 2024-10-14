@@ -30,15 +30,15 @@ Les tests techniques et les interviews sont des étapes cruciales pour décroche
 
 ## Table des Matières
 
-1. [Prefix Sum](#prefix-sum)
-2. [Two-Pointers](#two-pointers)
+1. [Prefix Sum](PATTERNS/1_prefix_sum_pattern.ipynb)
+2. [Two-Pointers](PATTERNS/2_two_pointers_pattern.ipynb)
 3. [Sliding Window](#sliding-window)
 4. [Fast and Slow Two Pointers](#fast-and-slow-two-pointers)
 5. [Linked List In-Place Reversal](#linked-list-in-place-reversal)
 6. [Monotonic Stack](#monotonic-stack)
 7. [Next Greater Next Smaller](#next-greater-next-smaller)
 8. [Top K Elements](#top-k-elements)
-9. [Overlapping Intervals](#overlapping-intervals)
+9.  [Overlapping Intervals](#overlapping-intervals)
 10. [Binary Search](#binary-search)
 11. [Binary Tree Traversal](#binary-tree-traversal)
 12. [Depth First Search](#depth-first-search)
@@ -61,6 +61,9 @@ Chacun de ces notebooks suivent cette structure d'une manière ou d'une autre:
 La maîtrise des patterns algorithmiques est essentielle pour réussir en informatique, améliorer votre logique et décrocher des emplois dans le domaine. Ce cours est conçu pour vous fournir une compréhension approfondie de ces patterns, vous permettant ainsi d'améliorer vos compétences en informatiques.
 
 J'espère que ce cours vous sera utile (comme il l'a été pour moi-même) et vous aidera à atteindre vos objectifs professionnels. Bonne étude !
+
+## Remerciements:
+Je dois surtout remercier [Ashish Pratap Singh](https://github.com/ashishps1) pour sa [vidéo sur les concepts fondamentaux derrière Leetcode](https://www.youtube.com/watch?v=DjYZk8nrXVY). C'est grâce à lui que j'ai eu l'idée de vraiment approfondir ma compréhension de ces concepts et de les retranscrire dans ce dépôt. Si vous regardez la liste, vous verrez que je l'ai reprise. N'hésitez pas à le suivre ! 
 
 ## P.S.:
 Ce cours est en cours de développement, en parallèle de mon propre apprentissage et approfondissement de ces concepts. Il est donc normal que tous les motifs ne soient pas encore présents ou qu'ils soient modifiés au fil du temps. J'ai commencé ce projet pour améliorer mes chances après avoir échoué lors de mon dernier entretien (qui était également le seul que j'ai passé jusqu'à présent).
