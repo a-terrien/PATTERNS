@@ -159,3 +159,5 @@ cython_debug/
 # All the DS_store files
 .DS_Store
 */.DS_Store
+
+.gitignore
