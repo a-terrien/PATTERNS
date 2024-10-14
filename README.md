@@ -58,4 +58,9 @@ Chacun de ces notebooks suivent cette structure d'une manière ou d'une autre:
 
 ## Conclusion
 
-La maîtrise des patterns algorithmiques est essentielle pour réussir en informatique, améliorer votre logique et décrocher des emplois dans le domaine. Ce cours est conçu pour vous fournir une compréhension approfondie de ces patterns, vous permettant ainsi de devenir u
+La maîtrise des patterns algorithmiques est essentielle pour réussir en informatique, améliorer votre logique et décrocher des emplois dans le domaine. Ce cours est conçu pour vous fournir une compréhension approfondie de ces patterns, vous permettant ainsi d'améliorer vos compétences en informatiques.
+
+J'espère que ce cours vous sera utile (comme il l'a été pour moi-même) et vous aidera à atteindre vos objectifs professionnels. Bonne étude !
+
+## P.S.:
+Ce cours est en cours de développement, en parallèle de mon propre apprentissage et approfondissement de ces concepts. Il est donc normal que tous les motifs ne soient pas encore présents ou qu'ils soient modifiés au fil du temps. J'ai commencé ce projet pour améliorer mes chances après avoir échoué lors de mon dernier entretien (qui était également le seul que j'ai passé jusqu'à présent).
